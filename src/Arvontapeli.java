@@ -24,7 +24,8 @@ public class Arvontapeli {
 
         // Ohjelma päättyy tähän
         //eli ei tarvitse mitään muuta koodia
-        
+        //The end.
+
     
     }
 }
